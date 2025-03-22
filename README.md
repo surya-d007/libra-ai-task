@@ -59,7 +59,9 @@ cd Front-end
 Step 2: Install Required Dependencies
 Ensure you have Node.js installed, then install all necessary dependencies using:
 
+pnpm install
 
+To run locally
 pnpm run dev
 ```
 
