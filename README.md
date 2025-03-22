@@ -1,6 +1,6 @@
 # Project Setup Guide
 
-## Installation
+## Installation for Back End
 
 ### Step 1: Navigate to the Backend Directory
 
@@ -42,3 +42,24 @@ Swagger UI: http://127.0.0.1:8000/docs
 
 Redoc: http://127.0.0.1:8000/redoc
 ```
+
+## Installation for Front End
+
+
+```
+
+Requirements : pnpm 
+Installation for Front End
+Step 1: Navigate to the Frontend Directory
+First, move to the frontend directory using the following command:
+
+
+cd Front-end
+
+Step 2: Install Required Dependencies
+Ensure you have Node.js installed, then install all necessary dependencies using:
+
+
+pnpm run dev
+```
+
